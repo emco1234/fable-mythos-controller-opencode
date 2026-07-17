@@ -7,3 +7,6 @@ out/
 .venv/
 venv/
 *.egg-info/out/
+
+.omo/
+
